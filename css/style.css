@@ -191,7 +191,13 @@ footer > h1 {
     max-width: 960px;
 }
 
-
+/*Bootstrap realted*/
+.container-fluid {
+    padding:0;
+}
+#favorite-sites > .row > .col-md-4 > img {
+    margin: 0 auto;
+}
 /*
 Colors:
 Light Blue: #0D9DFF
